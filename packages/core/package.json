@@ -1,0 +1,12 @@
+{
+  "name": "@issue1/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Marc J. Schmidt <marc@marcjschmidt.de>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

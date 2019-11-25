@@ -1,0 +1,11 @@
+{
+  "name": "@issue1/server",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Marc J. Schmidt <marc@marcjschmidt.de>",
+  "homepage": "",
+  "license": "ISC",
+  "dependencies": {
+    "@issue1/core": "^0.0.0"
+  }
+}
